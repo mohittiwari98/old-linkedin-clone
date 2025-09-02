@@ -30,7 +30,7 @@ a{
 /*for logo */
 .logo img{
     width: 30px;
-    margin-right: 15px;
+    margin-right: 16px;
     display: block;
 }
 .navbar-center ul li{
@@ -472,3 +472,4 @@ a{
     margin-right: 8px;
 
 }
+
