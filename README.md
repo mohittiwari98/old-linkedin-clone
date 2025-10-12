@@ -1,2 +1,2 @@
 # old-linkedin-clone
-intro
+introd
