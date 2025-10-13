@@ -1,2 +1,2 @@
 # old-linkedin-clone
-introduction to lin
+introduction to link
