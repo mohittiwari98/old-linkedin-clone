@@ -1,2 +1,2 @@
 # old-linkedin-clone
-introduction to my  old LinkedIn clon
+introduction to my  old LinkedIn clone
