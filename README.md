@@ -1,2 +1,2 @@
 # old-linkedin-clone
-introduction to my LinkedIn 
+introduction to my  oLinkedIn 
