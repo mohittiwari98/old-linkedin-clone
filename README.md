@@ -1,3 +1,3 @@
 # old-linkedin-clone
-introduction to my  old LinkedIn clone:-Linkedin clone is basic frontend p
+introduction to my  old LinkedIn clone:-Linkedin clone is basic frontend pro
 
