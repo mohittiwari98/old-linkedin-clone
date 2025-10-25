@@ -1,3 +1,3 @@
 # old-linkedin-clone
-introduction to my  old LinkedIn clone:-Linkedin clone is basic frontend project usi
+introduction to my  old LinkedIn clone:-Linkedin clone is basic frontend project usin
 
