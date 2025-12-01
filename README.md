@@ -4,4 +4,4 @@ basic project use as a reference show
 as clone
 and basic clone and so on as a basic
 
-project clon
+project clone
