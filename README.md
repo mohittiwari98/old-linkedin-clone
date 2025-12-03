@@ -4,5 +4,5 @@ basic project use as a reference show
 as clone
 and basic clone and so on as a basic
 
-project cloneb b
+project cloneb bo
  
